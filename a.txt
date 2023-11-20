@@ -1,3 +1,5 @@
 Hello
+Hey
 Hi
+have a good day
 Bye
